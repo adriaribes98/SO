@@ -1,0 +1,90 @@
+C:\Users\almud\Desktop\Game\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\almud\Desktop\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\almud\Desktop\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\almud\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\almud\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\almud\Desktop\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\almud\Desktop\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\almud\Desktop\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Jana\Desktop\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Jana\Desktop\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Jana\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\Jana\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\Jana\Desktop\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Jana\Desktop\Game\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\Jana\Desktop\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\Jana\Desktop\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+D:\PROYECTO SO\GameCliente\Game\obj\x86\Debug\Game.exe
+D:\PROYECTO SO\GameCliente\Game\obj\x86\Debug\Game.pdb
+D:\PROYECTO SO\GameCliente\Game\bin\Debug\Game.exe
+D:\PROYECTO SO\GameCliente\Game\bin\Debug\Game.pdb
+D:\PROYECTO SO\GameCliente\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+D:\PROYECTO SO\GameCliente\Game\obj\x86\Debug\Game.Form1.resources
+D:\PROYECTO SO\GameCliente\Game\obj\x86\Debug\Game.Properties.Resources.resources
+D:\PROYECTO SO\GameCliente\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+D:\PROYECTO SO\Cliente\Game\obj\x86\Debug\Game.exe
+D:\PROYECTO SO\Cliente\Game\obj\x86\Debug\Game.pdb
+D:\PROYECTO SO\Cliente\Game\bin\Debug\Game.exe
+D:\PROYECTO SO\Cliente\Game\bin\Debug\Game.pdb
+D:\PROYECTO SO\Cliente\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+D:\PROYECTO SO\Cliente\Game\obj\x86\Debug\Game.Form1.resources
+D:\PROYECTO SO\Cliente\Game\obj\x86\Debug\Game.Form2.resources
+D:\PROYECTO SO\Cliente\Game\obj\x86\Debug\Game.Properties.Resources.resources
+D:\PROYECTO SO\Cliente\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\Cliente\Game\obj\x86\Debug\Game.exe
+C:\Users\IEUser\Desktop\Cliente\Game\obj\x86\Debug\Game.pdb
+C:\Users\IEUser\Desktop\Cliente\Game\bin\Debug\Game.exe
+C:\Users\IEUser\Desktop\Cliente\Game\bin\Debug\Game.pdb
+C:\Users\IEUser\Desktop\Cliente\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Cliente\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\IEUser\Desktop\Cliente\Game\obj\x86\Debug\Game.Form2.resources
+C:\Users\IEUser\Desktop\Cliente\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Cliente\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\GameEntrega2\Game\obj\x86\Debug\Game.exe
+C:\Users\IEUser\Desktop\GameEntrega2\Game\obj\x86\Debug\Game.pdb
+C:\Users\IEUser\Desktop\GameEntrega2\Game\bin\Debug\Game.exe
+C:\Users\IEUser\Desktop\GameEntrega2\Game\bin\Debug\Game.pdb
+C:\Users\IEUser\Desktop\GameEntrega2\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\GameEntrega2\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\IEUser\Desktop\GameEntrega2\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\IEUser\Desktop\GameEntrega2\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\GameEntrega3\Game\obj\x86\Debug\Game.exe
+C:\Users\IEUser\Desktop\GameEntrega3\Game\obj\x86\Debug\Game.pdb
+C:\Users\IEUser\Desktop\GameEntrega3\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\GameEntrega3\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\IEUser\Desktop\GameEntrega3\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\IEUser\Desktop\GameEntrega3\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\GameEntrega3\Game\bin\Debug\Game.exe
+C:\Users\IEUser\Desktop\GameEntrega3\Game\bin\Debug\Game.pdb
+C:\Users\IEUser\Desktop\GameEntrega4\Game\obj\x86\Debug\Game.exe
+C:\Users\IEUser\Desktop\GameEntrega4\Game\obj\x86\Debug\Game.pdb
+C:\Users\IEUser\Desktop\GameEntrega4\Game\bin\Debug\Game.exe
+C:\Users\IEUser\Desktop\GameEntrega4\Game\bin\Debug\Game.pdb
+C:\Users\IEUser\Desktop\GameEntrega4\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\GameEntrega4\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\IEUser\Desktop\GameEntrega4\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\IEUser\Desktop\GameEntrega4\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\Entrega#4\GameEntrega4\Game\obj\x86\Debug\Game.exe
+C:\Users\IEUser\Desktop\Entrega#4\GameEntrega4\Game\obj\x86\Debug\Game.pdb
+C:\Users\IEUser\Desktop\Entrega#4\GameEntrega4\Game\bin\Debug\Game.exe
+C:\Users\IEUser\Desktop\Entrega#4\GameEntrega4\Game\bin\Debug\Game.pdb
+C:\Users\IEUser\Desktop\Entrega#4\GameEntrega4\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Entrega#4\GameEntrega4\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\IEUser\Desktop\Entrega#4\GameEntrega4\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Entrega#4\GameEntrega4\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\GameEntregaFinal\Game\obj\x86\Debug\Game.exe
+C:\Users\IEUser\Desktop\GameEntregaFinal\Game\obj\x86\Debug\Game.pdb
+C:\Users\IEUser\Desktop\GameEntregaFinal\Game\bin\Debug\Game.exe
+C:\Users\IEUser\Desktop\GameEntregaFinal\Game\bin\Debug\Game.pdb
+C:\Users\IEUser\Desktop\GameEntregaFinal\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\GameEntregaFinal\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\IEUser\Desktop\GameEntregaFinal\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\IEUser\Desktop\GameEntregaFinal\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\EntregaFinal\GameEntregaFinal\Game\obj\x86\Debug\Game.exe
+C:\Users\IEUser\Desktop\EntregaFinal\GameEntregaFinal\Game\obj\x86\Debug\Game.pdb
+C:\Users\IEUser\Desktop\EntregaFinal\GameEntregaFinal\Game\bin\Debug\Game.exe
+C:\Users\IEUser\Desktop\EntregaFinal\GameEntregaFinal\Game\bin\Debug\Game.pdb
+C:\Users\IEUser\Desktop\EntregaFinal\GameEntregaFinal\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\EntregaFinal\GameEntregaFinal\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\IEUser\Desktop\EntregaFinal\GameEntregaFinal\Game\obj\x86\Debug\Game.Properties.Resources.resources
+C:\Users\IEUser\Desktop\EntregaFinal\GameEntregaFinal\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
